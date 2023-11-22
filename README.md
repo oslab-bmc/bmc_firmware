@@ -11,3 +11,4 @@ yocto-based (2023.03 ~ )
 적용 환경 : 
 
 ast2600-evb , KETI(+KTNF)-LOW_END
+
