@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no"?> 
+<svg width="2000" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="3.17836827859919" width="1.78944718124385" y="150" height="145" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(4.17836827859919,154) rotate(90)" font-size="3pt">dynamic_debug_init</text>
+<rect x="60.1499736626769" width="2.20935355951407" y="150" height="145" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(61.1499736626769,154) rotate(90)" font-size="3pt">net_ns_init</text>
+<rect x="66.8426353224914" width="2.86182347036473" y="150" height="145" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(67.8426353224914,154) rotate(90)" font-size="3pt">cma_init_reserved_areas</text>
+<rect x="77.2369332092111" width="7.26761039313838" y="150" height="145" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(78.2369332092111,154) rotate(90)" font-size="3pt">atomic_pool_init</text>
+<rect x="84.5691445836218" width="3.48845298870643" y="150" height="145" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(85.5691445836218,154) rotate(90)" font-size="3pt">irq_sysfs_init</text>
+<rect x="95.4221094373752" width="125.274222883324" y="150" height="145" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(101.422109437375,154) rotate(90)">of_platform_default_populate_init</text>
+<rect x="223.448334122901" width="30.0975971747838" y="150" height="145" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(229.448334122901,154) rotate(90)">param_sysfs_init</text>
+<rect x="259.850987069865" width="2.81660278347408" y="150" height="145" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(260.850987069865,154) rotate(90)" font-size="3pt">crypto_null_mod_init</text>
+<rect x="273.7595783378" width="1.7442264943532" y="150" height="145" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(274.7595783378,154) rotate(90)" font-size="3pt">edac_init</text>
+<rect x="277.467674662833" width="2.36439591456769" y="150" height="145" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(278.467674662833,154) rotate(90)" font-size="3pt">net_dev_init</text>
+<rect x="281.227451772883" width="3.26880965238047" y="150" height="145" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(282.227451772883,154) rotate(90)" font-size="3pt">watchdog_init</text>
+<rect x="290.090706403448" width="4.41224702090091" y="150" height="145" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(291.090706403448,154) rotate(90)" font-size="3pt">chr_dev_init</text>
+<rect x="295.239404610854" width="7.1384084305937" y="150" height="145" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(296.239404610854,154) rotate(90)" font-size="3pt">inet_init</text>
+<rect x="303.133644522334" width="240.987500538342" y="150" height="145" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(309.133644522334,154) rotate(90)">populate_rootfs</text>
+<rect x="546.033334106337" width="2.00909051756969" y="150" height="145" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(547.033334106337,154) rotate(90)" font-size="3pt">armv7_pmu_driver_init</text>
+<rect x="556.757096997545" width="15.1553902064912" y="150" height="145" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(557.757096997545,154) rotate(90)" font-size="3pt">slab_sysfs_init</text>
+<rect x="574.315643707367" width="3.0233259235456" y="150" height="145" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(575.315643707367,154) rotate(90)" font-size="3pt">ext4_init_fs</text>
+<rect x="580.26539408255" width="1.89280875127963" y="150" height="145" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(581.26539408255,154) rotate(90)" font-size="3pt">init_jffs2_fs</text>
+<rect x="586.421867597804" width="8.8567945324379" y="150" height="145" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(587.421867597804,154) rotate(90)" font-size="3pt">aspeed_gpio_driver_init</text>
+<rect x="601.628938589313" width="5.27790016995039" y="150" height="145" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(602.628938589313,154) rotate(90)" font-size="3pt">aspeed_g6_clk_driver_init</text>
+<rect x="607.772491908313" width="2.60987964340268" y="150" height="145" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(608.772491908313,154) rotate(90)" font-size="3pt">reset_simple_driver_init</text>
+<rect x="611.91341480787" width="7.13840843059359" y="150" height="145" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(612.91341480787,154) rotate(90)" font-size="3pt">serial8250_init</text>
+<rect x="620.007917761294" width="141.204824865083" y="150" height="145" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(626.007917761294,154) rotate(90)">dw8250_platform_driver_init</text>
+<rect x="761.316104196414" width="2.06723140071483" y="150" height="145" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(762.316104196414,154) rotate(90)" font-size="3pt">of_platform_serial_driver_init</text>
+<rect x="764.559073456285" width="2.59695944714804" y="150" height="145" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(765.559073456285,154) rotate(90)" font-size="3pt">timeriomem_rng_driver_init</text>
+<rect x="769.720691859945" width="38.1145789506814" y="150" height="145" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(775.720691859945,154) rotate(90)">loop_init</text>
+<rect x="807.893411693772" width="76.9397686953583" y="150" height="145" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(813.893411693772,154) rotate(90)">nbd_init</text>
+<rect x="887.68208366324" width="571.195416311913" y="150" height="145" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(893.68208366324,154) rotate(90)">aspeed_smc_driver_init</text>
+<rect x="1461.95250668372" width="2.8618234703647" y="150" height="145" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1462.95250668372,154) rotate(90)" font-size="3pt">fixed_mdio_bus_init</text>
+<rect x="1466.50687586342" width="43.2891175505956" y="150" height="145" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1472.50687586342,154) rotate(90)">aspeed_mdio_driver_init</text>
+<rect x="1509.87997468967" width="145.378048255276" y="150" height="145" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1515.87997468967,154) rotate(90)">ftgmac100_driver_init</text>
+<rect x="1660.34212017108" width="3.22358896548963" y="150" height="145" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1661.34212017108,154) rotate(90)" font-size="3pt">aspeed_rtc_driver_init</text>
+<rect x="1664.68976621071" width="52.9082036620478" y="150" height="145" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1670.68976621071,154) rotate(90)">aspeed_i2c_bus_driver_init</text>
+<rect x="1728.05040864262" width="2.1705929707507" y="150" height="145" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1729.05040864262,154) rotate(90)" font-size="3pt">dm_init</text>
+<rect x="1731.55178182758" width="3.01040572729084" y="150" height="145" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1732.55178182758,154) rotate(90)" font-size="3pt">aspeed_driver_init</text>
+<rect x="1736.51959728742" width="1.65378512057214" y="150" height="145" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1737.51959728742,154) rotate(90)" font-size="3pt">aspeed_sdc_init</text>
+<rect x="1743.92932983936" width="133.736951430001" y="150" height="145" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1749.92932983936,154) rotate(90)">fsi_master_aspeed_driver_init</text>
+<rect x="1880.05005747831" width="2.25457424640445" y="150" height="145" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1881.05005747831,154) rotate(90)" font-size="3pt">nf_conntrack_standalone_init</text>
+<rect x="1886.9494422782" width="3.99234064263055" y="150" height="145" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1887.9494422782,154) rotate(90)" font-size="3pt">iptable_filter_init</text>
+<rect x="1891.03868439273" width="4.32180564711939" y="150" height="145" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1892.03868439273,154) rotate(90)" font-size="3pt">iptable_mangle_init</text>
+<rect x="1896.24552348328" width="11.3245520170415" y="150" height="145" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1897.24552348328,154) rotate(90)" font-size="3pt">inet6_init</text>
+<rect x="1915.12193021106" width="29.632470109623" y="150" height="145" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1921.12193021106,154) rotate(90)">clk_debug_init</text>
+<text transform="translate(0,89) rotate(0)" font-size="20pt">0</text>
+<text transform="translate(130,89) rotate(0)" font-size="20pt">0.02</text>
+<text transform="translate(260,89) rotate(0)" font-size="20pt">0.04</text>
+<text transform="translate(390,89) rotate(0)" font-size="20pt">0.06</text>
+<text transform="translate(520,89) rotate(0)" font-size="20pt">0.08</text>
+<text transform="translate(650,89) rotate(0)" font-size="20pt">0.1</text>
+<text transform="translate(780,89) rotate(0)" font-size="20pt">0.12</text>
+<text transform="translate(910,89) rotate(0)" font-size="20pt">0.14</text>
+<text transform="translate(1040,89) rotate(0)" font-size="20pt">0.16</text>
+<text transform="translate(1170,89) rotate(0)" font-size="20pt">0.18</text>
+<text transform="translate(1300,89) rotate(0)" font-size="20pt">0.2</text>
+<text transform="translate(1430,89) rotate(0)" font-size="20pt">0.22</text>
+<text transform="translate(1560,89) rotate(0)" font-size="20pt">0.24</text>
+<text transform="translate(1690,89) rotate(0)" font-size="20pt">0.26</text>
+<text transform="translate(1820,89) rotate(0)" font-size="20pt">0.28</text>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="no"?> 
+<svg width="1537.169388" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="20.184" width="84.738" y="150" height="325" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(26.184,154) rotate(90)" font-size="30pt">init_graph_trace</text>
+<rect x="105.0915" width="5.7885" y="150" height="325" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="117.291" width="7.0335" y="150" height="325" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="124.3755" width="3.62850000000002" y="150" height="325" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="134.715" width="165.2565" y="150" height="325" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(140.715,154) rotate(90)" font-size="30pt">of_platform_default_populate_init</text>
+<rect x="303.1485" width="28.116" y="150" height="325" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(304.1485,154) rotate(90)" font-size="18pt">param_sysfs_init</text>
+<rect x="335.3415" width="2.10599999999999" y="150" height="325" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="348.477" width="1.863" y="150" height="325" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="351.6495" width="1.9665" y="150" height="325" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="355.9755" width="197.031" y="150" height="325" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(361.9755,154) rotate(90)" font-size="30pt">tracer_init_tracefs</text>
+<rect x="556.824" width="4.52549999999997" y="150" height="325" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="561.915" width="3.80849999999998" y="150" height="325" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="566.625" width="201.489" y="150" height="325" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(572.625,154) rotate(90)" font-size="30pt">populate_rootfs</text>
+<rect x="769.896" width="1.63199999999995" y="150" height="325" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="778.7865" width="17.9490000000001" y="150" height="325" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(779.7865,154) rotate(90)" font-size="18pt">slab_sysfs_init</text>
+<rect x="798.5865" width="2.75549999999998" y="150" height="325" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="804.0285" width="2.53499999999997" y="150" height="325" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="808.7445" width="1.29750000000001" y="150" height="325" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="810.093" width="6.01200000000006" y="150" height="325" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="822.369" width="8.43299999999999" y="150" height="325" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(823.369,154) rotate(90)" font-size="18pt">aspeed_g6_clk_driver_init</text>
+<rect x="831.5535" width="1.95900000000006" y="150" height="325" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="834.4395" width="6.57600000000014" y="150" height="325" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="841.797" width="46.5435" y="150" height="325" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(847.797,154) rotate(90)" font-size="30pt">dw8250_platform_driver_init</text>
+<rect x="888.3975" width="2.24850000000004" y="150" height="325" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="891.5625" width="1.73399999999992" y="150" height="325" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="895.2345" width="39.5835" y="150" height="325" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(901.2345,154) rotate(90)" font-size="30pt">brd_init</text>
+<rect x="934.869" width="34.3380000000001" y="150" height="325" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(940.869,154) rotate(90)" font-size="30pt">loop_init</text>
+<rect x="969.2595" width="69.6645" y="150" height="325" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(975.2595,154) rotate(90)" font-size="30pt">nbd_init</text>
+<rect x="1041.045" width="242.0415" y="150" height="325" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1047.045,154) rotate(90)" font-size="30pt">aspeed_smc_driver_init</text>
+<rect x="1285.506" width="2.95499999999993" y="150" height="325" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1289.793" width="22.1009999999999" y="150" height="325" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1290.793,154) rotate(90)" font-size="18pt">aspeed_mdio_driver_init</text>
+<rect x="1311.9525" width="36.8760000000002" y="150" height="325" style="fill:rgb(0,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1317.9525,154) rotate(90)" font-size="30pt">ftgmac100_driver_init</text>
+<rect x="1352.994" width="2.12699999999973" y="150" height="325" style="fill:rgb(255,0,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1355.937" width="42.327" y="150" height="325" style="fill:rgb(255,255,128);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1361.937,154) rotate(90)" font-size="30pt">aspeed_i2c_bus_driver_init</text>
+<rect x="1408.0035" width="1.44149999999991" y="150" height="325" style="fill:rgb(255,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1410.18" width="1.98300000000017" y="150" height="325" style="fill:rgb(128,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1413.9825" width="1.49249999999984" y="150" height="325" style="fill:rgb(0,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1420.3455" width="33" y="150" height="325" style="fill:rgb(0,255,0);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1426.3455,154) rotate(90)" font-size="30pt">fsi_master_aspeed_driver_init</text>
+<rect x="1455.144" width="1.27799999999979" y="150" height="325" style="fill:rgb(255,0,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1461.108" width="1.74750000000017" y="150" height="325" style="fill:rgb(255,255,20);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1463.523" width="8.20800000000008" y="150" height="325" style="fill:rgb(255,0,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1464.523,154) rotate(90)" font-size="18pt">inet6_init</text>
+<rect x="1471.9725" width="1.49400000000014" y="150" height="325" style="fill:rgb(0,255,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="1478.724" width="44.1644999999999" y="150" height="325" style="fill:rgb(0,128,255);fill-opacity:0.5;stroke-width:1;stroke:rgb(0,0,0)"/>
+<text transform="translate(1484.724,154) rotate(90)" font-size="30pt">clk_debug_init</text>
+<text transform="translate(0,89) rotate(0)" font-size="30pt">0</text>
+<text transform="translate(150,89) rotate(0)" font-size="30pt">0.1</text>
+<text transform="translate(300,89) rotate(0)" font-size="30pt">0.2</text>
+<text transform="translate(450,89) rotate(0)" font-size="30pt">0.3</text>
+<text transform="translate(600,89) rotate(0)" font-size="30pt">0.4</text>
+<text transform="translate(750,89) rotate(0)" font-size="30pt">0.5</text>
+<text transform="translate(900,89) rotate(0)" font-size="30pt">0.6</text>
+<text transform="translate(1050,89) rotate(0)" font-size="30pt">0.7</text>
+<text transform="translate(1200,89) rotate(0)" font-size="30pt">0.8</text>
+<text transform="translate(1350,89) rotate(0)" font-size="30pt">0.9</text>
+<text transform="translate(1500,89) rotate(0)" font-size="30pt">1</text>
+</svg>

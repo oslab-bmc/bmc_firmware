@@ -1,0 +1,7 @@
+하이버네이션 실험을 위한 config 및 boot parameter 변경
+=> General Setup
+=> Powermanagement options
+=> Kernel hacking
+
+commandline
+maxcpus=1 resume=/dev/sda1 resumewait
