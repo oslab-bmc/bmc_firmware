@@ -12,3 +12,4 @@ yocto-based (2023.03 ~ )
 
 ast2600-evb , KETI(+KTNF)-LOW_END
 
+
